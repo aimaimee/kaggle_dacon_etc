@@ -1,4 +1,4 @@
-(출처 : https://github.com/LJEDD2/kaggul_kaggul_study/blob/main/README.md)
+(README 양식 출처 : https://github.com/LJEDD2/kaggul_kaggul_study/blob/main/README.md)
 
 # 🐸캐굴캐굴🐸
 ---
