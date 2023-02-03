@@ -51,5 +51,4 @@
 | 세부 일정 | 스터디 계획 | 참여 여부 |
 | :--- | :--- | :---: |
 | 스터디 OT (미정)| 그라운드 룰 및 학습 주제 , 스터디 운영 계획 수립  | V |
-| 23/02/04 | 캐글 goodbooks-10k 데이터셋 [🔴Netflix Vs Books-Recommender, Analysis, EDA
-](https://www.kaggle.com/code/niharika41298/netflix-vs-books-recommender-analysis-eda/notebook) 필사<br/> | V |
+| 23/02/04 | 캐글 goodbooks-10k 데이터셋 [🔴Netflix Vs Books-Recommender, Analysis, EDA](https://www.kaggle.com/code/niharika41298/netflix-vs-books-recommender-analysis-eda/notebook)<br/> [노트북 필사](https://github.com/aimaimee/kaggle_dacon_etc/tree/main/AfterCourse/books_recommender) | V |
