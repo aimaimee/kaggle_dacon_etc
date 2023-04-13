@@ -1,36 +1,5 @@
 # 🐸캐굴캐굴🐸
 
-## [AIS7] kaggul_kaggul_study
-멋쟁이 사자처럼 AI School 7기,
-캐글 노트북 필사 스터디 
-
-### 학습 목록
-1. 1주차 (22/11/07) CLF : 캐글 분류과제 노트북 필사
-   
-   - 추천시스템 [Airbnb New User Bookings](https://www.kaggle.com/competitions/airbnb-recruiting-new-user-bookings) 로 대체
-   - 학습 내용
-     - ing
-
-
-2. 2주차 (22/11/15) REG : 캐글 회귀과제 노트북 필사
-   - [Medical Cost Personal Datasets](https://www.kaggle.com/datasets/mirichoi0218/insurance?datasetId=13720&sortBy=voteCount)
-   - 필사 노트북 [EDA + Regression](https://www.kaggle.com/code/hely333/eda-regression)
-
-   - 학습 내용 
-3. 3주차 (22/11/22) DNN : MNIST 숫자 & 패션 데이터 이미지 분류 노트북 필사
-   - [MNIST 숫자 분류](https://www.tensorflow.org/tutorials/quickstart/beginner)
-   - [MNIST 패션 분류](https://www.tensorflow.org/tutorials/keras/classification)
-4. 4주차 (22/11/29) DNN : 3주차 DNN
-5. 5주차 (22/12/07) CNN : CIFAR10 Dataset Classification LeNet-5 Model
-   - [합성곱 신경망](https://www.tensorflow.org/tutorials/images/cnn?hl=ko)
-   - [이미지 분류](https://www.tensorflow.org/tutorials/images/classification?hl=ko)
-6. 6주차 (22/12/13) RNN : 
-   -  [Text classification with an RNN](https://github.com/tensorflow/text/blob/master/docs/tutorials/text_classification_rnn.ipynb)
-7. 7주차 (22/12/20) 추천시스템 : 
-   - [Netflix Visualizations, Recommendation, EDA🍿](https://www.kaggle.com/code/niharika41298/netflix-visualizations-recommendation-eda#Top-Duration)
-   - [코사인 유사도](https://wikidocs.net/24603)
-
----
 ## AIS7 수료 이후 스터디 
 
 ### 학습 목록
@@ -73,3 +42,37 @@
        - 결측치 확인 방법 : .any(), .all()
        - categorical binary variable
        - 추론 통계(Inferential Statistics)
+
+---
+
+## [AIS7] kaggul_kaggul_study
+멋쟁이 사자처럼 AI School 7기,
+캐글 노트북 필사 스터디 
+
+### 학습 목록
+1. 1주차 (22/11/07) CLF : 캐글 분류과제 노트북 필사
+   
+   - 추천시스템 [Airbnb New User Bookings](https://www.kaggle.com/competitions/airbnb-recruiting-new-user-bookings) 로 대체
+   - 학습 내용
+     - ing
+
+
+2. 2주차 (22/11/15) REG : 캐글 회귀과제 노트북 필사
+   - [Medical Cost Personal Datasets](https://www.kaggle.com/datasets/mirichoi0218/insurance?datasetId=13720&sortBy=voteCount)
+   - 필사 노트북 [EDA + Regression](https://www.kaggle.com/code/hely333/eda-regression)
+
+   - 학습 내용 
+3. 3주차 (22/11/22) DNN : MNIST 숫자 & 패션 데이터 이미지 분류 노트북 필사
+   - [MNIST 숫자 분류](https://www.tensorflow.org/tutorials/quickstart/beginner)
+   - [MNIST 패션 분류](https://www.tensorflow.org/tutorials/keras/classification)
+4. 4주차 (22/11/29) DNN : 3주차 DNN
+5. 5주차 (22/12/07) CNN : CIFAR10 Dataset Classification LeNet-5 Model
+   - [합성곱 신경망](https://www.tensorflow.org/tutorials/images/cnn?hl=ko)
+   - [이미지 분류](https://www.tensorflow.org/tutorials/images/classification?hl=ko)
+6. 6주차 (22/12/13) RNN : 
+   -  [Text classification with an RNN](https://github.com/tensorflow/text/blob/master/docs/tutorials/text_classification_rnn.ipynb)
+7. 7주차 (22/12/20) 추천시스템 : 
+   - [Netflix Visualizations, Recommendation, EDA🍿](https://www.kaggle.com/code/niharika41298/netflix-visualizations-recommendation-eda#Top-Duration)
+   - [코사인 유사도](https://wikidocs.net/24603)
+
+---
