@@ -1,54 +1,75 @@
-(README 양식 출처 : https://github.com/LJEDD2/kaggul_kaggul_study/blob/main/README.md)
-
 # 🐸캐굴캐굴🐸
----
-# [AIS 7 🦁] kaggul_kaggul 
-멋쟁이 사자처럼 AI School 7기
+
+## [AIS7] kaggul_kaggul_study
+멋쟁이 사자처럼 AI School 7기,
 캐글 노트북 필사 스터디 
 
-### 👊 스터디 개요
-- 스터디 목표 : 캐글에 있는 코드를 필사하여 코드와 개념을 이해할 수 있다.
-- 일정 : **매주 화요일 저녁 7시 30분 ~ 9시 +@분**
-- 장소 : ZOOM
-- 진행 방법
-    - 실습(내가 고른 데이터 및 주제 or 정해진 주제)
-    - 스터디 시간에는 돌아가면서 내가 필사한 코드가 어떤 코드인지 발표(한 명당 약 10분)
-        - 필사 외에도 직접 EDA를 하거나 모델링 코드를 스스로 짜서 발표도 가능. 
-    - 필사하다가 이해가 되지 않는 부분은 발표시간을 통해 질의응답 및 토론으로 해결 
-- Notion : [AIS7 스터디공간](https://www.notion.so/likelion-aischool/d791f46146bc48d7bd3bfcd7f890b9e6)에 매주 학습한 내용 개별적으로 정리 (수강생만 접근 가능... 🐸)
+### 학습 목록
+1. 1주차 (22/11/07) CLF : 캐글 분류과제 노트북 필사
+   
+   - 추천시스템 [Airbnb New User Bookings](https://www.kaggle.com/competitions/airbnb-recruiting-new-user-bookings) 로 대체
+   - 학습 내용
+     - ing
 
-### ✔️ Study Rules
-1. 💓 서로를 존중하는 마음으로 의사소통한다
-2. 💞 모임 시작 시 근황 공유하는 시간 갖기 
-3. 📹 항상 카메라 ON
-4. 🧘‍♂️ 중간에 함께 스트레칭을~
-5. ⏰ 스터디 종료 30분 전 함께 회고록 작성
-6. 🚫 무단결석 2회시 퇴출
+
+2. 2주차 (22/11/15) REG : 캐글 회귀과제 노트북 필사
+   - [Medical Cost Personal Datasets](https://www.kaggle.com/datasets/mirichoi0218/insurance?datasetId=13720&sortBy=voteCount)
+   - 필사 노트북 [EDA + Regression](https://www.kaggle.com/code/hely333/eda-regression)
+
+   - 학습 내용 
+3. 3주차 (22/11/22) DNN : MNIST 숫자 & 패션 데이터 이미지 분류 노트북 필사
+   - [MNIST 숫자 분류](https://www.tensorflow.org/tutorials/quickstart/beginner)
+   - [MNIST 패션 분류](https://www.tensorflow.org/tutorials/keras/classification)
+4. 4주차 (22/11/29) DNN : 3주차 DNN
+5. 5주차 (22/12/07) CNN : CIFAR10 Dataset Classification LeNet-5 Model
+   - [합성곱 신경망](https://www.tensorflow.org/tutorials/images/cnn?hl=ko)
+   - [이미지 분류](https://www.tensorflow.org/tutorials/images/classification?hl=ko)
+6. 6주차 (22/12/13) RNN : 
+   -  [Text classification with an RNN](https://github.com/tensorflow/text/blob/master/docs/tutorials/text_classification_rnn.ipynb)
+7. 7주차 (22/12/20) 추천시스템 : 
+   - [Netflix Visualizations, Recommendation, EDA🍿](https://www.kaggle.com/code/niharika41298/netflix-visualizations-recommendation-eda#Top-Duration)
+   - [코사인 유사도](https://wikidocs.net/24603)
 
 ---
-### 정규 과정 이후 개별 스터디 운영 계획 
+## AIS7 수료 이후 스터디 
 
-#### 참여 인원  
-| 구성원 |  |  |  |  |  |
-| :---: | :---: | :---: | :---: | :---: | :---: |
-| 박규호 | 이정은 | 구자현 | 박혜민 | 이승후 | 문영운 |
----
-### 📝 학습 일정 
-#### 멋사 정규 과정 복습 
-| 정규 과정 | 스터디 계획 | 참여 여부 |
-| :--- | :--- | :---: |
-| 스터디 OT | 인싸타임 자기주도학습시간(16:00~16:15) | V |
-| 1주차 CLF (11/07) | 캐글 분류과제 노트북 필사 | V |
-| 2주차 REG (11/15) | 캐글 회귀과제 노트북 필사 | V |
-| 3주차 DNN (11/22) | DNN(Deep Neural Network) <br/>: MNIST 숫자 & 패션 데이터 이미지분류 노트북 필사 | V |
-| 4주차 CNN (11/29) | 3주차 DNN(Deep Neural Network) | V |
-| 5주차 RNN (12/07) | 4주차 CNN 과제 수행 및 발표<br/>: CIFAR10 Dataset Classification LeNet-5 Model | V |
-| 6주차 추천시스템 (12/13) | 5주차 [RNN을 활용한 텍스트 분류 tensorflow](https://www.tensorflow.org/text/tutorials/text_classification_rnn) 튜토리얼 필사 | V |
-| 7주차 코사인 유사도 (12/21) | 캐글 추천시스템을 위한 EDA<br/>[🔴Netflix Visualizations, Recommendation, EDA🍿](https://github.com/LJEDD2/kaggul_kaggul_study/blob/main/LikeLion/Netflix_Recommendation/%F0%9F%94%B4Netflix%20Visualizations%2C%20Recommendation%2C%20EDA%F0%9F%8D%BF.ipynb) | V |
-
-#### 정규 과정 수료 후 
-
-| 세부 일정 | 스터디 계획 | 참여 여부 |
-| :--- | :--- | :---: |
-| 스터디 OT (미정)| 그라운드 룰 및 학습 주제 , 스터디 운영 계획 수립  | V |
-| 23/02/04 캐글 goodbooks-10k | [🔴Netflix Vs Books-Recommender, Analysis, EDA 노트북 링크](https://www.kaggle.com/code/niharika41298/netflix-vs-books-recommender-analysis-eda/notebook)<br/> [📋필사 링크](https://github.com/aimaimee/kaggle_dacon_etc/tree/main/AfterCourse/books_recommender) | V |
+### 학습 목록
+1. 1주차 (23/02/07) : [goodbooks-10k](https://www.kaggle.com/datasets/zygmunt/goodbooks-10k/code)
+   - 필사 노트북 [🔴Netflix Vs Books-Recommender, Analysis, EDA](https://www.kaggle.com/code/niharika41298/netflix-vs-books-recommender-analysis-eda/notebook)
+   - 학습 내용
+     - error_bad_lines=False → 23/04/14 FutureWarning : on_bad_lines="skip"으로 수정
+     - 23/04/14 FutureWarning : distplot → displot으로 수정
+     - .drop_duplicates(subset=[], keep=False)
+     - 추천 시스템
+2. 2주차 (23/02/12) : []
+     - 필사 노트북 [Complete EDA & Baseline model [0.708 LB] 🐦 🐦]()
+     - 학습 내용
+       - 정규표현식
+       - 자연어 처리에서의 EDA (제목 길이 분포, 토큰 수 분포, 토큰별 길이 분포, 워드 클라우드)
+       - PorterStemmer()
+3. 3주차 (23/02/19) :
+   - 필사 노트북 [House Price Calculation methods for beginners]
+   - 학습 내용
+     - 상관관계를 위한 히트맵을 그릴 때, 변수가 너무 많다면 필요한 변수를 뽑아서(ex. 상관도 절대값이 0.5 이상) 다시 히트맵을 그림
+     - 상관도를 sort_values를 통해 수치를 정렬해서 높은 상관관계를 찾아보기
+     - 왜도와 첨도 : .skew() 또는 .kurtosis() => kdeplot / scipy.stats에서 norm, skew를 import 해서 distplot으로 시각화
+     - 이산화
+     - 다항식 전개
+  1. 4주차 (23/02/26) : E-Commerce Data Analysis(CRM)
+     - 필사 노트북 [[KOR] E-Commerce Data: 2. RFM Analysis](https://www.kaggle.com/code/blanik/kor-e-commerce-data-2-rfm-analysis/notebook#Segmentation-Method-2:-Quartile-Sum) & 조은님 강의 필사
+     - 학습 내용
+       - 인코딩 오류 : encoding = "ISO-8859-1" 추가
+       - RFM segment
+  2. 5주차 (23/03/06) : [Melbourne Housing Market]
+     - 필사 노트북 [Melbourne Housing Market EDA and Regression](https://www.kaggle.com/code/stephaniestallworth/melbourne-housing-market-eda-and-regression)
+     - 학습 내용
+       - np.where(조건식, True일 때 반환값, False일 때 반환값)
+       - missing data 제거 방법
+       - zero-lot-line
+       - R2 Score 계산 방법 2가지
+  3. 6주차 (23/03/13) : [Airbnb New User Bookings]
+     - 필사 노트북 [Airbnb New User Bookings](https://www.kaggle.com/code/rounakbanik/airbnb-new-user-bookings)
+     - 학습 내용
+       - 결측치 확인 방법 : .any(), .all()
+       - categorical binary variable
+       - 추론 통계(Inferential Statistics)
